@@ -1,0 +1,20 @@
+{
+    "name": "ivoaspereira/php-testing",
+    "description":"CI/CD Example",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Ivoaspereira\\PhpTesting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivo Pereira",
+            "email": "ivopereira@ufp.edu.pt"
+        }
+    ]
+}
